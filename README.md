@@ -10,3 +10,6 @@ ECCV 2020 papers focusing on point cloud analysis
 
 - [3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection.](https://arxiv.org/pdf/2004.12636.pdf)  ` detection ` 
   - [[Code](https://github.com/rasd3/3D-CVF)]
+
+- [A Closer Look at Local Aggregation Operators in Point Cloud Analysis.](https://arxiv.org/abs/2007.01294)  ` classification `  ` segmentation ` 
+  - [[Code](https://github.com/zeliu98/CloserLook3D)]
