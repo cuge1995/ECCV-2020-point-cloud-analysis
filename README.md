@@ -19,3 +19,9 @@ ECCV 2020 papers focusing on point cloud analysis
 
 - [A Closer Look at Local Aggregation Operators in Point Cloud Analysis.](https://arxiv.org/abs/2007.01294)  ` classification `  ` segmentation ` 
   - [[Code](https://github.com/zeliu98/CloserLook3D)]
+
+- [Quaternion Equivariant Capsule Networks for 3D Point Clouds.](https://arxiv.org/pdf/1912.12098.pdf)  ` classification ` 
+  - [[Code](https://github.com/tolgabirdal/qenetworks)]
+
+- [PointPWC-Net: Cost Volume on Point Clouds for (Self-)Supervised Scene Flow Estimation.](https://arxiv.org/abs/1911.12408)  ` flow `  
+  - [[Code](https://github.com/DylanWusee/PointPWC)]
