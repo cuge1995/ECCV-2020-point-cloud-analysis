@@ -1,6 +1,14 @@
 # ECCV-2020-point-cloud-analysis
 ECCV 2020 papers focusing on point cloud analysis
 
+- [AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds.](https://arxiv.org/abs/1912.00461)  ` attack ` 
+  - [[Code](https://github.com/ajhamdi/AdvPC)]
+
+- [Learning Graph-Convolutional Representations for Point Cloud Denoising.](https://arxiv.org/abs/2007.02578)  ` denoising ` 
+  - [[Code](https://github.com/diegovalsesia/GPDNet)]
+
+- [Detail Preserved Point Cloud Completion via Separated Feature Aggregation.](https://arxiv.org/pdf/2007.02374.pdf)  ` completion ` 
+  - [[Code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)]
 
 - [GRNet: Gridding Residual Network for Dense Point Cloud Completion.]()  ` completion ` 
   - [[Code](https://github.com/hzxie/GRNet)]
