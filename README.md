@@ -44,3 +44,6 @@ ECCV 2020 papers focusing on point cloud analysis
 
 - [PointPWC-Net: Cost Volume on Point Clouds for (Self-)Supervised Scene Flow Estimation.](https://arxiv.org/abs/1911.12408)  ` flow `  
   - [[Code](https://github.com/DylanWusee/PointPWC)]
+
+- [Points2Surf: Learning Implicit Surfaces from Point Cloud Patches.](https://arxiv.org/pdf/2007.10453.pdf)  ` surface reconstruction `  
+  - [[Code](https://github.com/ErlerPhilipp/points2surf)]
