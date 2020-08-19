@@ -1,6 +1,12 @@
 # ECCV-2020-point-cloud-analysis
 ECCV 2020 papers focusing on point cloud analysis
 
+- [CAD-Deform: Deformable Fitting of CAD Models to 3D Scans.](https://arxiv.org/pdf/2007.11965.pdf)  ` CAD reconstruction ` 
+  - [[Code](https://github.com/alexeybokhovkin/CAD-Deform)]
+
+- [Weakly Supervised 3D Object Detection from Lidar Point Cloud.](https://arxiv.org/pdf/2007.11901.pdf)  ` object detection ` 
+  - [[Code](https://github.com/hlesmqh/WS3D)]
+
 - [AdvPC: Transferable Adversarial Perturbations on 3D Point Clouds.](https://arxiv.org/abs/1912.00461)  ` attack ` 
   - [[Code](https://github.com/ajhamdi/AdvPC)]
 
