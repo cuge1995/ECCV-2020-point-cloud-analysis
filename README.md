@@ -16,7 +16,7 @@ ECCV 2020 papers focusing on point cloud analysis
 - [Detail Preserved Point Cloud Completion via Separated Feature Aggregation.](https://arxiv.org/pdf/2007.02374.pdf)  ` completion ` 
   - [[Code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)]
 
-- [GRNet: Gridding Residual Network for Dense Point Cloud Completion.]()  ` completion ` 
+- [GRNet: Gridding Residual Network for Dense Point Cloud Completion.](https://arxiv.org/abs/2006.03761)  ` completion ` 
   - [[Code](https://github.com/hzxie/GRNet)]
 
 - [EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection.]()  ` detection ` 
