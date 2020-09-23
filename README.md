@@ -51,6 +51,9 @@ ECCV 2020 papers focusing on point cloud analysis
 - [ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds.](https://arxiv.org/abs/2003.12181.pdf)  ` Fitting `  
   - [[Code](https://github.com/Hippogriff/parsenet-codebase)]
 
+- [PUGeo-Net: A Geometry-centric Network for 3D Point Cloud Upsampling.](https://arxiv.org/pdf/2002.10277.pdf)  ` upsampling `  
+  - [[Code](https://github.com/ninaqy/PUGeo)]
+
 - [PointPWC-Net: Cost Volume on Point Clouds for (Self-)Supervised Scene Flow Estimation.](https://arxiv.org/abs/1911.12408)  ` flow `  
   - [[Code](https://github.com/DylanWusee/PointPWC)]
 
