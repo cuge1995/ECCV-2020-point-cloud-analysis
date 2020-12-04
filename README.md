@@ -33,6 +33,9 @@ ECCV 2020 papers focusing on point cloud analysis
 - [H3DNet: 3D Object Detection Using Hybrid Geometric Primitives.](https://arxiv.org/pdf/2006.05682.pdf)  ` detection ` 
   - [[Code](https://github.com/zaiweizhang/H3DNet)]
 
+- [Progressive Point Cloud Deconvolution Generation Network.](https://arxiv.org/pdf/2007.05361.pdf)  ` generation ` 
+  - [[Code](https://github.com/fpthink/PDGN)]
+
 - [Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions.](https://arxiv.org/abs/2003.13834.pdf)  ` segmentation ` 
   - [[Code](https://github.com/matheusgadelha/PointCloudLearningACD)]
 
