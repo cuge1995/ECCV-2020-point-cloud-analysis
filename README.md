@@ -26,6 +26,7 @@ ECCV 2020 papers focusing on point cloud analysis
   - [[Code](https://github.com/rasd3/3D-CVF)]
 
 - [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding.](https://arxiv.org/pdf/2007.10985.pdf)  ` representation learning `  
+  - [[Code](https://github.com/facebookresearch/PointContrast)]
 
 - [Finding Your (3D) Center: 3D Object Detection Using a Learned Loss.](https://arxiv.org/abs/2004.02693)  ` detection ` 
   - [[Code](https://github.com/dgriffiths3/finding-your-center)]
