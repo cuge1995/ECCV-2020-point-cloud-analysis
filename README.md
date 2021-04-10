@@ -64,5 +64,7 @@ ECCV 2020 papers focusing on point cloud analysis
 - [Points2Surf: Learning Implicit Surfaces from Point Cloud Patches.](https://arxiv.org/pdf/2007.10453.pdf)  ` surface reconstruction `  
   - [[Code](https://github.com/ErlerPhilipp/points2surf)]
 
+- [Weakly-supervised 3D Shape Completion in the Wild.](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500273.pdf)   ` completion ` 
+
 - [Discrete Point Flow Networks for Efficient Point Cloud Generation.](https://arxiv.org/abs/2007.10170)  ` generation `  
   - [[Code](https://github.com/Regenerator/dpf-nets)]
